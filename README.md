@@ -4,7 +4,7 @@
 [Microsoft Dynamics 365](https://dynamics.microsoft.com) is a line of enterprise resource planning and customer relationship management software applications. In this project, we will have the [Power Automate](https://powerapps.microsoft.com) flows that you can trigger using HTTP or Dataverse to quickly send SMS notifications to:
 1. Contact Entity
 2. Static/Dynamic Marketing List Members
-3. all members in all Static/Dynamic Marketing Lists of a selected Campaign
+3. All members in all Static/Dynamic Marketing Lists of a selected Campaign
 
 ---
 
